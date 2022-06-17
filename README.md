@@ -1,7 +1,6 @@
 # BagsQ Server
 
-- To See Client Site Live , Click on This [BagsQ](https://bagsq12.web.app).
-- Github Link of Client Site [BagsQ-Client-Github](https://github.com/ProgrammingHeroWC4/warehouse-management-client-side-emonmorol)
+- To See Client Site Live , Click on: https://bagsq12.web.app
 
 ## Api Created Using This server
 
@@ -23,4 +22,4 @@
 - dotenv
 - Cors
 - JsonWebToken
-"# bags-server" 
+  "# bags-server"
